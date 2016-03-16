@@ -1,1 +1,14 @@
 // Header Styles
+
+#show-contact{
+  display: none;
+}
+
+.contact{
+  cursor: pointer;
+  color: goldenrod;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
