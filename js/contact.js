@@ -15,3 +15,4 @@ Contact.prototype.fullName = function () {
 }
 
 exports.Contact = Contact;
+exports.Address = Address;
