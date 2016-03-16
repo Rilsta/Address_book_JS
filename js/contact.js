@@ -1,4 +1,6 @@
-function contact(first, last) {
+function Contact(first, last) {
   this.firstName = first;
   this.lastName = last;
 }
+
+exports.Contact = Contact;
